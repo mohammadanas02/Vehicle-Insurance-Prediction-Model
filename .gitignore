@@ -1,5 +1,6 @@
-aws_acess_key.txt
-acess_key.txt
+credentials.txt
+vehicle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
