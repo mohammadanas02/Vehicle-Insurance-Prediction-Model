@@ -5,6 +5,7 @@ env
 logs
 template.py
 demo.py
+notebook
 README.md
 LICENSE
 src.egg.-info
